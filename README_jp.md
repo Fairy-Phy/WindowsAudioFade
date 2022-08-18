@@ -13,7 +13,7 @@
 実行には .Net Framework 4.7.2(Windows 10 April 2018 Update
 (version 1803)では標準インストール済み)が必要です。
 
-### 最新バージョンのダウンロード: [Windows(x86)](none)
+### 最新バージョンのダウンロード: [Windows(x86)](https://github.com/Fairy-Phy/WindowsAudioFade/releases/download/1.0.0/WindowsAudioFadev1.0.0.zip)
 
 ダウンロードしたzipファイルを解凍し、中にあるexeファイルを開くと実行できます。
 

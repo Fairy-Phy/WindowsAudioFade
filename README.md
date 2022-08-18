@@ -14,7 +14,7 @@ Only osu! and vlc are supported as fade destinations. If there is a high demand 
 
 .Net Framework 4.7.2(Windows 10 April 2018 Update (version 1803) installed as standard) is required to run.
 
-### Latest build: [Windows(x86)](none)
+### Latest build: [Windows(x86)](https://github.com/Fairy-Phy/WindowsAudioFade/releases/download/1.0.0/WindowsAudioFadev1.0.0.zip)
 
 Unzip the zip file and open the exe file in it to run it.
 
