@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAudioFade", "WindowsAudioFade.csproj", "{0CCF795E-6616-4F2E-9696-A7CDC8DFC635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CCF795E-6616-4F2E-9696-A7CDC8DFC635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CCF795E-6616-4F2E-9696-A7CDC8DFC635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CCF795E-6616-4F2E-9696-A7CDC8DFC635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CCF795E-6616-4F2E-9696-A7CDC8DFC635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0AA60F6-F4EB-482C-B36A-5489C97A7CFC}
+	EndGlobalSection
+EndGlobal
